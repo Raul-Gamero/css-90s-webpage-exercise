@@ -29,3 +29,12 @@ h1 {
     background-repeat: no-repeat;
 }
 
+.section {
+    display: flex;
+    flex-direction: row;
+}
+
+.bigger-text-2 {
+    font-size: 1.5rem;
+    color: green
+}
